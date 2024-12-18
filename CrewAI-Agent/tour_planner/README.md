@@ -6,7 +6,7 @@ This project is an example using the CrewAI framework to automate the process of
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to choose between different of cities and put together a full itinerary for the trip based on your preferences.
 
 
-- **Configure Environment**: Create ``.env` and set up the environment variables for [Browseless](https://www.browserless.io/), [Serper](https://serper.dev/) and [OpenAI](https://platform.openai.com/api-keys)
+- **Configure Environment**: Create ``.env` and set up the environment variables for [Serper](https://serper.dev/) and [OpenAI](https://platform.openai.com/api-keys)
 - **Install Dependencies**: Run `poetry install --no-root`.
 - **Execute the Script**: Run `poetry run python main.py` and input your idea.
 
@@ -19,4 +19,6 @@ CrewAI is designed to facilitate the collaboration of role-playing AI agents. In
   - `./tools`: Contains tool classes used by the agents.
 
 
+## Output
+![tour_planner](https://github.com/user-attachments/assets/6a82df71-6330-4456-87e8-2cd604644d69)
 
