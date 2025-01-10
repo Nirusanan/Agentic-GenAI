@@ -24,6 +24,8 @@ Ask the question using local search:
 ```
 graphrag query --root ./researchpaper-rag --method local --query "Where we use time-series tasks?"
 ```
+![answer](https://github.com/user-attachments/assets/04f7f2e2-0424-4587-8a63-65382d4dc521)
+
 
 ### Visualize the knowledge graph
 ![graphrag-knowledge](https://github.com/user-attachments/assets/e5bb8ccd-e0aa-4ea4-94bb-049b28c52b75)
